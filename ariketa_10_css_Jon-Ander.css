@@ -1,0 +1,23 @@
+
+li{
+    display: block;
+    background-color: lightgray;
+    border: solid 1px;
+    width: 250px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer;
+    list-style: none;
+    border-radius: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.text:hover{
+    background-color: lightyellow;
+    color: grey;
+}
+
